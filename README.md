@@ -8,6 +8,7 @@ Some given codes originally depended on TensorFlow are modified for PyTorch. I w
 
 
 ## Dependencies: 
+Tensorflow is not required at all as I modifed all codes that depends on Tensorflow.  
 * PyTorch 0.4.0
 * MuJoCo version 1.31
 * OpenAI Gym 0.9.1
