@@ -20,4 +20,4 @@ Some given codes originally depended on TensorFlow are modified for PyTorch. I w
 * Policy Gradient
 
 ## HW3
-* Deep Q-Network with target network on Atari
+* Deep Q-Network(DQN) with target network on Atari
